@@ -1,7 +1,6 @@
 ﻿#NoEnv
 #Warn
 SendMode Input
-SetWorkingDir %A_ScriptDir%
 SetCapsLockState, AlwaysOff
 
 $w::
