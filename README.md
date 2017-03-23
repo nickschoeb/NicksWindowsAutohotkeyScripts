@@ -9,3 +9,4 @@ My AutoHotkey scripts for Windows
     - What it does:   This disables your caps lock key and [caps lock + { W, A, S, D }] become arrow keys
     - Why?:           I like this method of navigation in text editors sometimes and I dislike the caps lock key
     
+See also OS X version (using Karabiner and Seil) at https://github.com/nickschoeb/NicksOSXKarabinerSeilScripts
